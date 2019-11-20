@@ -1,0 +1,14 @@
+{
+  "name": "backend-web-development",
+  "version": "1.0.0",
+  "description": "\u001b[A\u001b[B\u001b[B\u001b[ANode \u001b[1;6D intro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikhil Rajkarnikar",
+  "license": "ISC",
+  "dependencies": {
+    "heroes": "^5.14.0"
+  }
+}
